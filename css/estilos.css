@@ -12,3 +12,21 @@ body {
 .importante {
     color: deepskyblue;
 }
+
+.header {
+    background-color: dimgrey;
+}
+
+.header h2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deepskyblue;
+    text-align: center;
+    padding: 20px;
+}
+
+.header p {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
