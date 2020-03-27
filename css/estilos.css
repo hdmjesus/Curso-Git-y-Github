@@ -1,4 +1,4 @@
-* {
+    * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -35,4 +35,11 @@ body {
     width: 100%;
     max-width: 100px;
     margin: 20px;
-}
+    .footer {
+        height: 60px;
+        background-color: aquamarine;
+        width: 100%;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+    }
