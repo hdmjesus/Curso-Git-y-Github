@@ -30,3 +30,12 @@ body {
     padding: 20px;
     color: blue;
 }
+
+.footer {
+    height: 60px;
+    background-color: aquamarine;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
