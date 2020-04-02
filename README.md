@@ -3,7 +3,7 @@ Un blog increible del curso de Git y Giyhub de Platzi
 
 >  El curso de Git y Github de Platzi es lo que me hacia falta para profesionalizar mas aun mi desarrollo de software.
 
-##En este curso vemos de todo:
+## En este curso vemos de todo:
 - Todos los comando de Git.
 - El flujo de trabajo de Github.
 - El verdadero amor por las buenas practicas.
