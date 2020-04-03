@@ -10,5 +10,6 @@ Un blog increible del curso de Git y Giyhub de Platzi
 - Trucos muy locos de Freddy.
 - Las personalidades multiples del tutor.
 - Creado por el maravilloso team Platzi.
+- Inclute ejemplos en linux, windows y mac.
 
 Y como recordatorio, **este Readme.md** es con fines didacticos, si realmente quieres saber mas de Git y Github, visita [Platzi](http://www.platzi.com "Platzi")
